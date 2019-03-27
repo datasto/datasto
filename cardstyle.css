@@ -1,0 +1,21 @@
+body{
+    background-color:black;
+}
+
+.container{
+    margin-top: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(136, 133, 133, 0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(136, 133, 133,0.75);
+    box-shadow: -1px 9px 40px -12px rgba(136, 133, 133,0.75);
+}
+
+#sectitle{
+    margin-bottom: 4%;
+    margin-left: 0%;
+}
+

@@ -67,6 +67,7 @@ text-transform: uppercase;
     margin-right: 40px;
     float: right;
     overflow: hidden;
+    padding-right: 0px;
 }
 
 .navs a {
